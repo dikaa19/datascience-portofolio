@@ -1,7 +1,50 @@
-# datascience-portofolio
-Selamat datang di portofolio saya! Saya seorang calon Data Scientist dengan pengalaman dalam analisis data, machine learning, dan visualisasi data.
+# Data Scientist Portfolio
 
-## Tentang Saya  
-- **Nama:** Khafidz Putra Mahardika
-- **Keahlian:** Python, Machine Learning, Data Visualization, SQL  
-- **Pendidikan:** Mahasiswa S1 Teknik Informatika, Universitas Negeri Semarang 
+## Tentang Saya
+Saya adalah seorang mahasiswa Ilmu Komputer yang antusias dan berdedikasi dengan semangat yang besar untuk belajar dan berkembang di bidang data science.
+
+## Keahlian
+- **Pemrograman:** Python (pandas, numpy, scikit-learn, matplotlib, seaborn), SQL
+- **Machine Learning:** Supervised dan Unsupervised Learning, Feature Engineering, Hyperparameter Tuning
+- **Pengolahan Data:** Data Cleaning, Exploratory Data Analysis (EDA), Data Preprocessing
+- **Teknologi:** Google Colab, Visual Studio Code, Git/GitHub
+
+## Proyek Saya
+### Garment Worker Productivity
+Tujuan utama adalah memprediksi efektivitas dan efisiensi buruh di pabrik garmen. Dengan melakukannya, perusahaan bertujuan untuk:
+- Mengidentifikasi penurunan kinerja buruh sehingga intervensi bisa segera dilakukan.
+- Meningkatkan efisiensi operasional melalui alokasi sumber daya yang lebih baik.
+
+**Key Business Questions**
+- Apa saja faktor yang paling mempengaruhi produktivitas buruh?
+  - Memahami variabel mana yang paling mempengaruhi produktivitas buruh seperti jumlah pekerja, jumlah perubahan desain, lembur, dan insentif.
+- Bagaimana kita dapat membangun model untuk memprediksi produktivitas buruh secara akurat?
+  - Mengembangkan model prediktif untuk memperkirakan produktivitas berdasarkan data historis dan faktor-faktor yang relevan.
+- Tindakan apa yang bisa diambil untuk meningkatkan atau menjaga produktivitas buruh?
+  - Mengidentifikasi langkah-langkah yang dapat diambil dari hasil prediksi untuk meningkatkan atau mempertahankan produktivitas buruh .
+
+**Algoritma yang digunakan:** Regresi Linear, KNN, Decision Tree, Random Forest, SVM, dan MLP
+
+**Hyperparameter Tuning**: GridSearch
+
+**Hasil:** Random Forest menjadi model terbaik dengan RMSE sebesar 0.114971 dan SMAPE 10.996979
+
+**Dokumentasi Kode**: 
+
+### Customer Segmentation
+**Tujuan Proyek:** Menganalisis dan mengelompokkan pelanggan berdasarkan data transaksi online retail.
+
+**Key Business Question**
+  1. Apa saja segmen utama pelanggan yang ada berdasarkan pola pembelian mereka?
+  2. Bagaimana distribusi geografis pelanggan berdasarkan segmen tersebut?
+  3. Strategi pemasaran apa yang dapat diterapkan untuk masing-masing segmen pelanggan?
+     
+**Algoritma yang digunakan:** KMeans Clustering
+
+**Hasil:** Mendapatkan nilai sillhoute score sebesar 0.81 (sangat baik)
+
+**Dokumentasi Kode** :
+
+### SQL Analysis: Airline Passenger Satisfaction
+
+## Kontak
