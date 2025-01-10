@@ -29,8 +29,9 @@ Tujuan utama adalah memprediksi efektivitas dan efisiensi buruh di pabrik garmen
 
 **Hasil:** Random Forest menjadi model terbaik dengan RMSE sebesar 0.114971 dan SMAPE 10.996979
 
-**Dokumentasi Kode**: 
+**Dokumentasi Kode**:  https://github.com/dikaa19/datascience-portofolio/blob/main/garment_worker_productivity.ipynb
 
+---
 ### Customer Segmentation
 **Tujuan Proyek:** Menganalisis dan mengelompokkan pelanggan berdasarkan data transaksi online retail.
 
@@ -43,8 +44,27 @@ Tujuan utama adalah memprediksi efektivitas dan efisiensi buruh di pabrik garmen
 
 **Hasil:** Mendapatkan nilai sillhoute score sebesar 0.81 (sangat baik)
 
-**Dokumentasi Kode** :
+**Dokumentasi Kode:** https://github.com/dikaa19/datascience-portofolio/blob/main/customer_segmentation.ipynb
 
+---
 ### SQL Analysis: Airline Passenger Satisfaction
 
+**Bahasa Pemrograman:** Python dan SQL
+
+**Recommend Analysis:**
+
+1. Which percentage of airline passengers are satisfied? Does it vary by customer type? What about type of travel?
+2. What is the customer profile for a repeating airline passenger?
+3. Does flight distance affect customer preferences or flight patterns?
+4. Which factors contribute to customer satisfaction the most? What about dissatisfaction?
+5. What is the average departure delay and arrival delay?
+6. What is the Average rating of On-board Service and Airline Service?
+
+**Dokumentasi Kode:** https://github.com/dikaa19/datascience-portofolio/blob/main/airplane_satisfaction.ipynb
+
+---
+
 ## Kontak
+- **Linkedin:** www.linkedin.com/in/khafidz-putra-mahardika
+- **Github:** https://github.com/dikaa19
+- **Email:** khafidzputra93@gmail.com
