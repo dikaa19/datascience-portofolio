@@ -47,6 +47,28 @@ Tujuan utama adalah memprediksi efektivitas dan efisiensi buruh di pabrik garmen
 **Dokumentasi Kode:** https://github.com/dikaa19/datascience-portofolio/blob/main/[Clustering]_Submision_Akhir_BMLP_Khafidz_Putra_Mahardika.ipynb
 
 ---
+### Rice Seed Classification
+**Bahasa Pemrograman:** Python
+
+**Latar Belakang**
+
+Dalam industri pertanian, identifikasi tipe padi menjadi aspek penting untuk memastikan kualitas dan efisiensi produksi. Dua tipe padi utama dalam dataset ini adalah Jasmine dan Gonen, yang memiliki karakteristik berbeda, baik dari segi fisik maupun kualitas hasil panen. Identifikasi manual seringkali tidak efisien dan rawan kesalahan, terutama untuk volume besar. Dengan dataset yang mencakup fitur geometris butir padi seperti Area, Perimeter, dan Roundness, pendekatan machine learning dapat membantu mengotomatisasi proses klasifikasi ini. Hal ini bertujuan meningkatkan akurasi, efisiensi, dan kecepatan identifikasi.
+
+**Masalah Bisnis:** Bagaimana membangun model machine learning yang mampu mengklasifikasikan dua tipe padi, Jasmine dan Gonen, secara otomatis berdasarkan fitur geometrisnya?
+
+**Tujuan Proyek:** 
+
+1. Membangun model klasifikasi yang dapat memanfaatkan fitur geometris seperti Area, Eccentricity, dan Roundness untuk membedakan padi Jasmine dan Gonen.
+2. Melakukan evaluasi model menggunakan metrik seperti akurasi, precision, recall, F1-score, dan confusion matrix untuk memastikan performa optimal.
+3. Menghasilkan model yang dapat diterapkan pada dataset baru dengan performa konsisten.
+
+**Algoritma yang digunakan:** GaussianNB, LinearSVC, dan DecisionTreeClassifier
+
+**Hasil:** Model GaussianNB, LinearSVC, dan DecisionTree mampu memprediksi jenis padi dengan **Sangat Baik** berdasarkan fitur-fitur yang tersedia. Nilai Akurasi model-model ini mencapai 100% pada algoritma LinearSVC dan DecisionTree, sedangkan untuk algoritma GaussianNB tingkat akurasinya sebesar 99.43%. Hal ini menunjukkan model memiliki kemampuan generalisasi yang baik terhadap data yang diberikan
+
+**Dokumentasi Kode:** https://github.com/dikaa19/datascience-portofolio/blob/main/rice_clasification.ipynb
+
+---
 ### SQL Analysis: Airline Passenger Satisfaction
 
 **Bahasa Pemrograman:** Python dan SQL
