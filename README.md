@@ -44,7 +44,7 @@ Tujuan utama adalah memprediksi efektivitas dan efisiensi buruh di pabrik garmen
 
 **Hasil:** Mendapatkan nilai sillhoute score sebesar 0.81 (sangat baik)
 
-**Dokumentasi Kode:** https://github.com/dikaa19/datascience-portofolio/blob/main/customer_segmentation.ipynb
+**Dokumentasi Kode:** https://github.com/dikaa19/datascience-portofolio/blob/main/[Clustering]_Submision_Akhir_BMLP_Khafidz_Putra_Mahardika.ipynb
 
 ---
 ### SQL Analysis: Airline Passenger Satisfaction
