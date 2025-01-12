@@ -64,7 +64,7 @@ Dalam industri pertanian, identifikasi tipe padi menjadi aspek penting untuk mem
 
 **Algoritma yang digunakan:** GaussianNB, LinearSVC, dan DecisionTreeClassifier
 
-**Hasil:** Model GaussianNB, LinearSVC, dan DecisionTree mampu memprediksi jenis padi dengan **Sangat Baik** berdasarkan fitur-fitur yang tersedia. Nilai Akurasi model-model ini mencapai 100% pada algoritma LinearSVC dan DecisionTree, sedangkan untuk algoritma GaussianNB tingkat akurasinya sebesar 99.43%. Hal ini menunjukkan model memiliki kemampuan generalisasi yang baik terhadap data yang diberikan
+**Hasil:** Model GaussianNB, LinearSVC, dan DecisionTree mampu memprediksi jenis padi dengan **Sangat Baik** berdasarkan fitur-fitur yang tersedia. Nilai Akurasi model-model ini mencapai 100% pada algoritma LinearSVC dan DecisionTree, sedangkan untuk algoritma GaussianNB tingkat akurasinya sebesar 99.46%. Hal ini menunjukkan model memiliki kemampuan generalisasi yang baik terhadap data yang diberikan.
 
 **Dokumentasi Kode:** https://github.com/dikaa19/datascience-portofolio/blob/main/rice_clasification.ipynb
 
