@@ -82,7 +82,7 @@ Dalam industri pertanian, identifikasi tipe padi menjadi aspek penting untuk mem
 5. What is the average departure delay and arrival delay?
 6. What is the Average rating of On-board Service and Airline Service?
 
-**Dokumentasi Kode:** https://github.com/dikaa19/datascience-portofolio/blob/main/airplane_satisfaction.ipynb
+**Dokumentasi Kode:** https://github.com/dikaa19/datascience-portofolio/blob/main/airplane_passenger_satisfaction.ipynb
 
 ---
 
