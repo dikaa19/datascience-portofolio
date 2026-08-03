@@ -1,0 +1,29 @@
+# Environment & Sensitive API Keys
+.env
+.env.local
+*.env
+
+# Private Data & CSV Files
+data/
+*.csv
+
+# Python Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
